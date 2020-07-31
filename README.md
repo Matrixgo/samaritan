@@ -1,6 +1,7 @@
 # Samaritan
 
 ![Samaritan](docs/src/images/logo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMatrixgo%2Fsamaritan.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMatrixgo%2Fsamaritan?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/samaritan-proxy/samaritan.svg?branch=master)](https://travis-ci.org/samaritan-proxy/samaritan)
 [![Go Report Card](https://goreportcard.com/badge/github.com/samaritan-proxy/samaritan)](https://goreportcard.com/report/github.com/samaritan-proxy/samaritan)
@@ -37,3 +38,6 @@ _We name this project Samaritan for saving our OPs from extreme misery:_
 ## License
 
 Samaritan is licensed under the Apache 2.0 license. See [LICENSE](LICENSE) for the full license text.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMatrixgo%2Fsamaritan.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMatrixgo%2Fsamaritan?ref=badge_large)
